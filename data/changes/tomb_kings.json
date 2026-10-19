@@ -1,0 +1,33 @@
+{
+  "revision": 1,
+  "status": "requested_unimplemented",
+  "faction": "Tomb Kings",
+  "upgrades": [
+    {
+      "from": "Nehekhara Warriors",
+      "to": "Tomb Guard",
+      "action": "add"
+    },
+    {
+      "from": "Nehekhara Warriors",
+      "to": "Nehekhara Horsemen",
+      "action": "preserve_if_existing"
+    },
+    {
+      "from": "Nehekhara Horsemen",
+      "to": "Necropolis Knights",
+      "action": "add"
+    },
+    {
+      "from": "Skeleton Chariots",
+      "to": "Screaming Skull Catapults",
+      "action": "remove"
+    },
+    {
+      "from": "Skeleton Archer Chariots",
+      "to": "Screaming Skull Catapults",
+      "action": "remove"
+    }
+  ],
+  "notes": "Display names only; resolve exact database keys, group membership, and UI links before packaging."
+}
