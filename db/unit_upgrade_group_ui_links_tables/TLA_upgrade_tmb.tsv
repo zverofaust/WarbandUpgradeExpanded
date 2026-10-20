@@ -4,4 +4,5 @@ TLA_tmb_inf_1	TLA_tmb_inf	4	2	0.0000	0.0000	0.0000
 TLA_tmb_cav_horse	TLA_tmb_inf	3	1	0.0000	0.0000	0.0000
 TLA_tmb_cav_horse_1	TLA_tmb_cav_horse	4	2	0.0000	0.0000	0.0000
 TLA_tmb_cav_chariot	TLA_tmb_cav_horse	3	1	0.0000	0.0000	0.0000
-TLA_tmb_cav_chariot_1	TLA_tmb_cav_chariot	4	2	0.0000	0.0000	0.0000
+TLA_tmb_guard	TLA_tmb_inf_1	4	2	0.0000	0.0000	0.0000
+TLA_tmb_knight	TLA_tmb_cav_horse_1	4	2	0.0000	0.0000	0.0000
