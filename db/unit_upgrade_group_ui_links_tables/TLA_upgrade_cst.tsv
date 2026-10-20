@@ -23,3 +23,4 @@ WUE_cst_deck_bombers	TLA_cst_cav_deck	3	1	0.0000	0.0000	0.0000
 WUE_cst_deck_bombers	WUE_cst_deck_handguns	4	2	0.0000	0.0000	0.0000
 TLA_cst_mon_1	TLA_cst_mon	3	1	0.0000	0.0000	0.0000
 WUE_cst_leviathan	TLA_cst_mon	3	1	0.0000	0.0000	0.0000
+TLA_cst_inf_gun	TLA_cst_inf_mob	4	2	0.0000	0.0000	0.0000
