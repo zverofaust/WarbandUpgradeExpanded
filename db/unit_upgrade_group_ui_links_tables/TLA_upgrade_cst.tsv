@@ -10,7 +10,6 @@ TLA_cst_inf_guard	TLA_cst_inf_mob_1	3	1	0.0000	0.0000	0.0000
 WUE_cst_depth_guard_polearms	TLA_cst_inf_mob_1	3	1	0.0000	0.0000	0.0000
 WUE_cst_depth_guard_polearms	TLA_cst_inf_guard	4	2	0.0000	0.0000	0.0000
 TLA_cst_inf_gun	TLA_cst_inf_mob_1	4	2	0.0000	0.0000	0.0000
-WUE_cst_gunnery_hand_cannons	TLA_cst_inf_gun	3	1	0.0000	0.0000	0.0000
 WUE_cst_gunnery_handguns	TLA_cst_inf_gun	3	1	0.0000	0.0000	0.0000
 WUE_cst_gunnery_bombers	TLA_cst_inf_gun	3	1	0.0000	0.0000	0.0000
 WUE_cst_gunnery_bombers	WUE_cst_gunnery_handguns	4	2	0.0000	0.0000	0.0000
@@ -24,3 +23,5 @@ WUE_cst_deck_bombers	WUE_cst_deck_handguns	4	2	0.0000	0.0000	0.0000
 TLA_cst_mon_1	TLA_cst_mon	3	1	0.0000	0.0000	0.0000
 WUE_cst_leviathan	TLA_cst_mon	3	1	0.0000	0.0000	0.0000
 TLA_cst_inf_gun	TLA_cst_inf_mob	4	2	0.0000	0.0000	0.0000
+WUE_cst_gunnery_hand_cannons	WUE_cst_gunnery_handguns	3	1	0.0000	0.0000	0.0000
+WUE_cst_gunnery_hand_cannons	WUE_cst_gunnery_bombers	3	1	0.0000	0.0000	0.0000
