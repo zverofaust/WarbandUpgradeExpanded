@@ -19,3 +19,5 @@ WUE_tmb_necrosphinx	WUE_tmb_warsphinx	3	1	0.0000	0.0000	0.0000
 WUE_tmb_bone_giant	TLA_tmb_screaming_skull_catapult	3	1	0.0000	0.0000	0.0000
 WUE_tmb_casket_of_souls	TLA_tmb_screaming_skull_catapult	3	1	0.0000	0.0000	0.0000
 WUE_tmb_hierotitan	WUE_tmb_bone_giant	3	1	0.0000	0.0000	0.0000
+WUE_tmb_skeleton_archers	TLA_tmb_skeleton_warriors	2	4	0.0000	0.0000	0.0000
+TLA_tmb_skeleton_horsemen	WUE_tmb_skeleton_spearmen	4	2	0.0000	0.0000	0.0000
