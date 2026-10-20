@@ -8,10 +8,6 @@ WUE_vmp_drakenhof	TLA_vmp_cav_blood_knight	3	1	0.0000	0.0000	0.0000
 WUE_vmp_drakenhof	WUE_vmp_blood_lances	3	1	0.0000	0.0000	0.0000
 WUE_vmp_handmaiden_death	TLA_vmp_handmaiden	4	2	0.0000	0.0000	0.0000
 WUE_vmp_black_lances	TLA_vmp_cav_black	4	2	0.0000	0.0000	0.0000
-TLA_vmp_cav_blood_knight	TLA_vmp_cav_black	2	4	0.0000	0.0000	0.0000
-WUE_vmp_blood_lances	TLA_vmp_cav_black	2	4	0.0000	0.0000	0.0000
-TLA_vmp_cav_blood_knight	WUE_vmp_black_lances	2	4	0.0000	0.0000	0.0000
-WUE_vmp_blood_lances	WUE_vmp_black_lances	2	4	0.0000	0.0000	0.0000
 TLA_vmp_inf_guard	WUE_vmp_guard_halberds	4	2	0.0000	0.0000	0.0000
 WUE_vmp_guard_great	TLA_vmp_inf_guard	4	2	0.0000	0.0000	0.0000
 WUE_vmp_guard_great	WUE_vmp_guard_halberds	4	2	0.0000	0.0000	0.0000
