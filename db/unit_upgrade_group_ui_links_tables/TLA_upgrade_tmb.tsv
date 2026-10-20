@@ -14,3 +14,8 @@ WUE_tmb_skeleton_archer_chariots	TLA_tmb_skeleton_chariots	4	2	0.0000	0.0000	0.0
 WUE_tmb_tomb_guard_halberds	TLA_tmb_tomb_guard_swords	4	2	0.0000	0.0000	0.0000
 WUE_tmb_ushabti_bows	TLA_tmb_ushabti_melee	4	2	0.0000	0.0000	0.0000
 WUE_tmb_necropolis_knights_halberds	TLA_tmb_necropolis_knights	4	2	0.0000	0.0000	0.0000
+WUE_tmb_khemric_titan	WUE_tmb_tomb_scorpion	3	1	0.0000	0.0000	0.0000
+WUE_tmb_necrosphinx	WUE_tmb_warsphinx	3	1	0.0000	0.0000	0.0000
+WUE_tmb_bone_giant	TLA_tmb_screaming_skull_catapult	3	1	0.0000	0.0000	0.0000
+WUE_tmb_casket_of_souls	TLA_tmb_screaming_skull_catapult	3	1	0.0000	0.0000	0.0000
+WUE_tmb_hierotitan	WUE_tmb_bone_giant	3	1	0.0000	0.0000	0.0000
