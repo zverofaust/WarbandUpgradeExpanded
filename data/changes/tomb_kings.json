@@ -1,6 +1,6 @@
 {
   "revision": 1,
-  "status": "requested_unimplemented",
+  "status": "tsv_source_modified_not_packaged_or_tested",
   "faction": "Tomb Kings",
   "upgrades": [
     {
@@ -29,5 +29,5 @@
       "action": "remove"
     }
   ],
-  "notes": "Display names only; resolve exact database keys, group membership, and UI links before packaging."
+  "notes": "Existing Nehekhara Warriors to Nehekhara Horsemen route preserved. New routes use provisional rank 5, subtracted rank 2 and tier-3 resource cost. UI links updated, coordinates unchanged. Build/pack validation outstanding."
 }
