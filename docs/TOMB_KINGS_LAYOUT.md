@@ -1,24 +1,37 @@
-# Tomb Kings layout — first implementation pass
+# Tomb Kings layout — complete source-data draft (2026-10-19)
 
-Source: user's final revised bottom-to-top diagram (2026-10-19). This is a **partial implementation**, not a validated playable pack.
+All five Tomb Kings TSV tables have been updated to implement the user's final bottom-to-top diagram, including the construct and artillery branches. **Not yet compiled or validated in-game.**
 
-## Implemented in five TLA_upgrade_tmb TSV tables
+## Construct and artillery upgrades
 
-- Separate database groups for Skeleton Warriors, Spearmen, Archers, Horsemen, Horse Archers, Nehekhara Warriors, Nehekhara Horsemen, Chariots, Archer Chariots, Tomb Guard variants, Necropolis Knights variants, Ushabti variants, and Screaming Skull Catapult.
-- Preserve original Morghast group as a disconnected legacy entry.
-- Wide, bottom-to-top coordinates with lower-tier skeleton units at y=760, middle tier y=520, Tomb Guard at y=300 and advanced units at y=100.
-- Infantry and cavalry progressions and bidirectional weapon-variant upgrades.
-- Both Skeleton Warriors and Skeleton Spearmen can promote to Nehekhara Warriors.
-- Both Skeleton Horsemen and Skeleton Horse Archers can promote to Chariots and Archer Chariots.
-- Existing Skeleton Chariot to Screaming Skull Catapult upgrade remains removed.
+- Tomb Scorpion -> Khemric Titan
+- Khemrian Warsphinx -> Necrosphinx
+- Screaming Skull Catapult -> Bone Giant
+- Screaming Skull Catapult -> Casket of Souls
+- Bone Giant -> Hierotitan
 
-## Outstanding
+Unit IDs were checked against Warhammer III 9.0.4 data (twdatabase.com). The new Khemric Titan requires Lords of the End Times DLC.
 
-- Identify authoritative WH3 land-unit keys for Tomb Scorpion, Khemric Titan, Khemrian Warsphinx, Necrosphinx, Bone Giant, Hierotitan, and Casket of Souls. Do not guess keys.
-- Add those units, their groups, coordinates, and intended upgrade chains, including Screaming Skull Catapult -> Bone Giant and -> Casket of Souls.
-- Verify RPFM DB table override behavior, source table import, game interpretation of split groups, and the UI's position and link direction semantics.
-- Original RPFM CLI build.bat remains nonfunctional with RPFM 5.2.0; do not rely on it.
+## Other branches
 
-## Manual integration caution
+Separate unit cards and upgrade groups for skeleton infantry, cavalry, chariots, Tomb Guard, Necropolis Knights, Ushabti and their weapon variants. Two skeleton infantry variants promote to Nehekhara Warriors; both basic horsemen variants have both chariot destinations. Old chariot -> catapult upgrade remains removed.
 
-This pass modifies **five** Tomb Kings TSV tables, not the previous two. A pack created from an older snapshot must have all five tables updated together. A mixed old/new pack will reference nonexistent groups. Keep a backup of the last known working pack until this layout is validated.
+## Validation needed
+
+- All five tables must be imported together; importing only two leaves dangling group references.
+- RPFM 5.2.0's spreadsheet Import TSV has been unreliable in the user's tests; direct table editing/pasting worked.
+- Original `build.bat` still targets the removed RPFM CLI and is not a working pack builder.
+- Test whether group IDs and bidirectional upgrade entries render as intended, whether x/y coordinates and UI link positions match the reference, and whether DLC-gated units appear.
+- Upgrade costs and required/subtracted ranks are provisional, particularly construct paths.
+- Existing Morghast unit group retained but disconnected from the reference diagram.
+- The last known working test pack should be backed up before integration.
+
+## Source references
+
+- https://twdatabase.com/units/khemric-titan
+- https://twdatabase.com/units/bone-giant
+- https://twdatabase.com/units/casket-of-souls
+- https://twdatabase.com/units/tomb-scorpion
+- https://twdatabase.com/units/khemrian-warsphinx
+- https://twdatabase.com/units/necrosphinx
+- https://twdatabase.com/units/hierotitan
