@@ -1,0 +1,16 @@
+unit_upgrade_group	x	y	category
+#unit_upgrade_group_ui_infos_tables;1;db/unit_upgrade_group_ui_infos_tables/TLA_upgrade_cst			
+TLA_cst_cav_deck	0	400	CST
+TLA_cst_cav_deck_1	80	400	CST
+TLA_cst_inf_mob	0	600	CST
+TLA_cst_inf_mob_1	80	600	CST
+TLA_cst_inf_gun	0	500	CST
+TLA_cst_inf_gun_1	80	500	CST
+TLA_cst_inf_gun_2	200	500	CST
+TLA_cst_inf_gun_3	280	500	CST
+TLA_cst_inf_guard	160	600	CST
+TLA_cst_mon	280	400	CST
+TLA_cst_mon_1	200	400	CST
+TLA_cst_sartosa	280	600	CST
+TLA_cst_knight_realm	0	300	CST
+TLA_cst_knight_questing	80	300	CST

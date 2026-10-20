@@ -1,0 +1,12 @@
+unit_upgrade_group	x	y	category
+#unit_upgrade_group_ui_infos_tables;1;db/unit_upgrade_group_ui_infos_tables/TLA_upgrade_tmb			
+TLA_tmb_ushabati	0	400	TMB
+TLA_tmb_knight	0	500	TMB
+TLA_tmb_cav_horse	120	500	TMB
+TLA_tmb_cav_horse_1	300	500	TMB
+TLA_tmb_cav_chariot	120	400	TMB
+TLA_tmb_cav_chariot_1	300	400	TMB
+TLA_tmb_inf	120	600	TMB
+TLA_tmb_inf_1	300	600	TMB
+TLA_tmb_guard	0	600	TMB
+TLA_tmb_morghast	0	300	TMB

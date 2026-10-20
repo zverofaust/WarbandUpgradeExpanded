@@ -1,0 +1,12 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_cst						
+TLA_cst_inf_mob_1	TLA_cst_inf_mob	4	2	0.0000	0.0000	0.0000
+TLA_cst_inf_gun	TLA_cst_inf_mob	3	1	0.0000	0.0000	0.0000
+TLA_cst_inf_gun_1	TLA_cst_inf_gun	4	2	0.0000	0.0000	0.0000
+TLA_cst_inf_gun_2	TLA_cst_inf_gun_1	4	2	0.0000	0.0000	0.0000
+TLA_cst_inf_gun_3	TLA_cst_inf_gun_2	4	2	0.0000	0.0000	0.0000
+TLA_cst_mon_1	TLA_cst_inf_gun_2	3	1	0.0000	0.0000	0.0000
+TLA_cst_cav_deck	TLA_cst_inf_gun	3	1	0.0000	0.0000	0.0000
+TLA_cst_cav_deck_1	TLA_cst_inf_gun_1	3	1	0.0000	0.0000	0.0000
+TLA_cst_cav_deck_1	TLA_cst_cav_deck	4	2	0.0000	0.0000	0.0000
+TLA_cst_mon_1	TLA_cst_mon	2	4	0.0000	0.0000	0.0000

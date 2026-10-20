@@ -1,0 +1,24 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_dwf						
+TLA_dwf_inf_warrior_1	TLA_dwf_inf_warrior_0	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_beards	TLA_dwf_inf_warrior_1	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_quarreller	TLA_dwf_inf_warrior_1	4	2	0.0000	0.0000	0.0000
+TLA_dwf_inf_elite_0	TLA_dwf_inf_beards	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_elite_1	TLA_dwf_inf_elite_0	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_slayer_0	TLA_dwf_inf_warrior_1	3	4	0.0000	0.0000	0.0000
+TLA_dwf_inf_slayer_0	TLA_dwf_inf_beards	2	4	0.0000	0.0000	0.0000
+TLA_dwf_inf_slayer_1	TLA_dwf_inf_slayer_0	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_slayer_1	TLA_dwf_inf_elite_0	2	4	0.0000	0.0000	0.0000
+TLA_dwf_inf_thunder_0	TLA_dwf_inf_quarreller	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_irondrake_0	TLA_dwf_inf_quarreller	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_ranger	TLA_dwf_inf_quarreller	1	3	0.0000	0.0000	0.0000
+TLA_dwf_inf_bugmans	TLA_dwf_inf_ranger	4	2	0.0000	0.0000	0.0000
+TLA_dwf_inf_quarreller	TLA_dwf_inf_ranger	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_thunder_1	TLA_dwf_inf_thunder_0	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_irondrake_1	TLA_dwf_inf_irondrake_0	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_irondrake_0	TLA_dwf_inf_thunder_0	3	1	0.0000	0.0000	0.0000
+TLA_dwf_inf_irondrake_1	TLA_dwf_inf_thunder_1	3	1	0.0000	0.0000	0.0000
+TLA_dwf_art_1	TLA_dwf_art	3	1	0.0000	0.0000	0.0000
+TLA_dwf_art_2	TLA_dwf_art_1	3	1	0.0000	0.0000	0.0000
+TLA_dwf_veh_gyro_2	TLA_dwf_veh_gyro_1	3	1	0.0000	0.0000	0.0000
+TLA_dwf_veh_thunderbarge	TLA_dwf_veh_gyro_2	3	1	0.0000	0.0000	0.0000

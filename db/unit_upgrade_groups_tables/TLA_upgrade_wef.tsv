@@ -1,0 +1,14 @@
+unit_group
+#unit_upgrade_groups_tables;0;db/unit_upgrade_groups_tables/TLA_upgrade_wef
+TLA_wef_cav_glade
+TLA_wef_cav_rider
+TLA_wef_cav_stag
+TLA_wef_inf_guard
+TLA_wef_inf_dancer
+TLA_wef_inf_singer
+TLA_wef_cav_sister
+TLA_wef_inf_glade
+TLA_wef_inf_scout
+TLA_wef_inf_watcher
+TLA_wef_mon_spider
+TLA_wef_mon_spider_giant

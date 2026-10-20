@@ -1,0 +1,12 @@
+unit_group
+#unit_upgrade_groups_tables;0;db/unit_upgrade_groups_tables/TLA_upgrade_tmb
+TLA_tmb_ushabati
+TLA_tmb_knight
+TLA_tmb_cav_horse
+TLA_tmb_cav_horse_1
+TLA_tmb_cav_chariot
+TLA_tmb_cav_chariot_1
+TLA_tmb_inf
+TLA_tmb_inf_1
+TLA_tmb_guard
+TLA_tmb_morghast

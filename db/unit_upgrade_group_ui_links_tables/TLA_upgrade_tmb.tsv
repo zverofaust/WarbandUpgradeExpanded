@@ -1,0 +1,7 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_tmb						
+TLA_tmb_inf_1	TLA_tmb_inf	4	2	0.0000	0.0000	0.0000
+TLA_tmb_cav_horse	TLA_tmb_inf	3	1	0.0000	0.0000	0.0000
+TLA_tmb_cav_horse_1	TLA_tmb_cav_horse	4	2	0.0000	0.0000	0.0000
+TLA_tmb_cav_chariot	TLA_tmb_cav_horse	3	1	0.0000	0.0000	0.0000
+TLA_tmb_cav_chariot_1	TLA_tmb_cav_chariot	4	2	0.0000	0.0000	0.0000

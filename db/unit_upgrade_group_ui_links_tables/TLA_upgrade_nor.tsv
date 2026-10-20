@@ -1,0 +1,18 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_nor						
+TLA_nor_cav_1	TLA_nor_cav	3	1	0.0000	0.0000	0.0000
+TLA_nor_cav_2	TLA_nor_cav_1	3	1	0.0000	0.0000	0.0000
+TLA_nor_chariot	TLA_nor_cav_kurgan	4	2	0.0000	0.0000	0.0000
+TLA_nor_chariot_1	TLA_nor_chariot	3	1	0.0000	0.0000	0.0000
+TLA_nor_inf_1	TLA_nor_inf	3	1	0.0000	0.0000	0.0000
+TLA_nor_inf_hunter	TLA_nor_inf	4	2	0.0000	0.0000	0.0000
+TLA_nor_cav	TLA_nor_inf_hunter	3	1	0.0000	0.0000	0.0000
+TLA_nor_inf_bearmen	TLA_nor_inf_1	3	1	0.0000	0.0000	0.0000
+TLA_nor_inf_berserker	TLA_nor_inf_bearmen	3	1	0.0000	0.0000	0.0000
+TLA_nor_cav	TLA_nor_inf_1	4	2	0.0000	0.0000	0.0000
+TLA_nor_inf_champion	TLA_nor_inf_berserker	3	1	0.0000	0.0000	0.0000
+TLA_nor_mon_hound_1	TLA_nor_mon_hound	3	1	0.0000	0.0000	0.0000
+TLA_nor_mon_wolf_1	TLA_nor_mon_wolf	3	1	0.0000	0.0000	0.0000
+TLA_nor_mon_fimir_1	TLA_nor_mon_fimir	3	1	0.0000	0.0000	0.0000
+TLA_nor_mon_mammoth_1	TLA_nor_mon_mammoth	4	2	0.0000	0.0000	0.0000
+TLA_nor_mon_troll_1	TLA_nor_mon_troll	3	1	0.0000	0.0000	0.0000

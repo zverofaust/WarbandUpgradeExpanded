@@ -1,0 +1,13 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_ogr						
+TLA_ogr_cav_mournfang_1	TLA_ogr_cav_mournfang	4	2	0.0000	0.0000	0.0000
+TLA_ogr_cav_crusher	TLA_ogr_cav_mournfang_1	4	2	0.0000	0.0000	0.0000
+TLA_ogr_inf_ogre_1	TLA_ogr_inf_ogre	4	2	0.0000	0.0000	0.0000
+TLA_ogr_inf_irongut	TLA_ogr_inf_ogre_1	4	1	0.0000	0.0000	0.0000
+TLA_ogr_inf_lead	TLA_ogr_inf_ogre_1	4	3	0.0000	0.0000	0.0000
+TLA_ogr_inf_man	TLA_ogr_inf_ogre_1	4	2	0.0000	0.0000	0.0000
+TLA_ogr_inf_man_1	TLA_ogr_inf_man	4	2	0.0000	0.0000	0.0000
+TLA_ogr_cav_mournfang	TLA_ogr_inf_ogre_1	3	1	0.0000	0.0000	0.0000
+TLA_ogr_mon_stonehorn_1	TLA_ogr_mon_stonehorn	4	2	0.0000	0.0000	0.0000
+TLA_ogr_inf_plague	TLA_ogr_inf_ogre	1	3	0.0000	0.0000	0.0000
+TLA_ogr_veh_ironblaster	TLA_ogr_inf_lead	4	2	0.0000	0.0000	0.0000

@@ -1,0 +1,25 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_cth						
+TLA_cth_peasant_horse	TLA_cth_peasant	3	1	0.0000	0.0000	0.0000
+TLA_cth_peasant	TLA_cth_peasant_horse	1	3	0.0000	0.0000	0.0000
+TLA_cth_peasant_bow	TLA_cth_peasant	1	3	0.0000	0.0000	0.0000
+TLA_cth_peasant	TLA_cth_peasant_bow	3	1	0.0000	0.0000	0.0000
+TLA_cth_gunner_1	TLA_cth_gunner	4	2	0.0000	0.0000	0.0000
+TLA_cth_sky	TLA_cth_gunner_1	4	3	0.0000	0.0000	0.0000
+TLA_cth_sky_1	TLA_cth_sky	4	2	0.0000	0.0000	0.0000
+TLA_cth_art	TLA_cth_gunner_1	4	2	0.0000	0.0000	0.0000
+TLA_cth_art_1	TLA_cth_art	4	2	0.0000	0.0000	0.0000
+TLA_cth_jade	TLA_cth_peasant	4	2	0.0000	0.0000	0.0000
+TLA_cth_jade_bow	TLA_cth_peasant_bow	4	2	0.0000	0.0000	0.0000
+TLA_cth_jade_lancer	TLA_cth_peasant_horse	4	2	0.0000	0.0000	0.0000
+TLA_cth_jade_bow	TLA_cth_jade	1	3	0.0000	0.0000	0.0000
+TLA_cth_jade_bow_1	TLA_cth_jade_1	1	3	0.0000	0.0000	0.0000
+TLA_cth_jade_1	TLA_cth_jade	4	2	0.0000	0.0000	0.0000
+TLA_cth_jade	TLA_cth_jade_bow	3	1	0.0000	0.0000	0.0000
+TLA_cth_jade_1	TLA_cth_jade_bow_1	3	1	0.0000	0.0000	0.0000
+TLA_cth_jade_bow_1	TLA_cth_jade_bow	4	2	0.0000	0.0000	0.0000
+TLA_cth_jade_lancer	TLA_cth_jade	3	1	0.0000	0.0000	0.0000
+TLA_cth_jade	TLA_cth_jade_lancer	1	3	0.0000	0.0000	0.0000
+TLA_cth_guard	TLA_cth_jade_1	4	2	0.0000	0.0000	0.0000
+TLA_cth_guard_bow	TLA_cth_jade_bow_1	4	2	0.0000	0.0000	0.0000
+TLA_cth_longma	TLA_cth_jade_lancer	4	2	0.0000	0.0000	0.0000

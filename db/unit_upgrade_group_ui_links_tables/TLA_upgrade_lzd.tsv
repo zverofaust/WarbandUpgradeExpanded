@@ -1,0 +1,14 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_lzd						
+TLA_lzd_steg_1	TLA_lzd_steg	4	2	0.0000	0.0000	0.0000
+TLA_lzd_bast_1	TLA_lzd_bast	4	2	0.0000	0.0000	0.0000
+TLA_lzd_bast_2	TLA_lzd_bast_1	4	2	0.0000	0.0000	0.0000
+TLA_lzd_basic_1	TLA_lzd_basic	4	2	0.0000	0.0000	0.0000
+TLA_lzd_cav	TLA_lzd_basic_1	4	2	0.0000	0.0000	0.0000
+TLA_lzd_guard	TLA_lzd_basic_1	4	1	0.0000	0.0000	0.0000
+TLA_lzd_cav_1	TLA_lzd_cav	4	2	0.0000	0.0000	0.0000
+TLA_lzd_cav_2	TLA_lzd_cav_1	4	2	0.0000	0.0000	0.0000
+TLA_lzd_skink_1	TLA_lzd_skink	4	2	0.0000	0.0000	0.0000
+TLA_lzd_skink_2	TLA_lzd_skink_1	4	2	0.0000	0.0000	0.0000
+TLA_lzd_cav_rider	TLA_lzd_skink_2	4	2	0.0000	0.0000	0.0000
+TLA_lzd_cav_rider_1	TLA_lzd_cav_rider	4	2	0.0000	0.0000	0.0000
