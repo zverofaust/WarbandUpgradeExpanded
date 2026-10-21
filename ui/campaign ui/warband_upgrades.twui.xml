@@ -12283,7 +12283,7 @@
 		<warband_upgrades
 			this="87B0D410-679A-4CBA-9C8F7F4207317F64"
 			id="warband_upgrades"
-			offset="290.00,392.00"
+			offset="290.00,367.00"
 			docking="Bottom Center"
 			component_anchor_point="0.50,1.00"
 			tooltipslocalised="true"
@@ -12596,7 +12596,7 @@
 				<khorne
 					this="69629287-2A71-4D4D-B71EACD548457338"
 					name="khorne"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="69629287-2A71-4D4D-B71EACD548457338">
@@ -12606,14 +12606,14 @@
 							uniqueguid="7EC40EAB-D5AC-4111-9E4E9AFE623A5155"
 							componentimage="9C60425C-F348-4D74-9FC0FD81270874F1"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="30E70AE6-A63C-427E-B7DAB8BA2EE1B641"
 							uniqueguid="30E70AE6-A63C-427E-B7DAB8BA2EE1B641"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12622,7 +12622,7 @@
 				<nurgle
 					this="D4412006-ED79-49C7-9AAEF809D2DAFBC3"
 					name="nurgle"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="D4412006-ED79-49C7-9AAEF809D2DAFBC3">
@@ -12632,14 +12632,14 @@
 							uniqueguid="FA1C198B-2B28-4E9D-BFA1565E3B445A39"
 							componentimage="2ED72245-EDD3-4D5C-9A2DA78FB95EB5CE"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="ED74E93E-977E-440A-88455EAE7DBD3581"
 							uniqueguid="ED74E93E-977E-440A-88455EAE7DBD3581"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12648,7 +12648,7 @@
 				<slaanesh
 					this="2D88BF8D-9229-4CB3-BC940254E2A40E90"
 					name="slaanesh"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="2D88BF8D-9229-4CB3-BC940254E2A40E90">
@@ -12658,14 +12658,14 @@
 							uniqueguid="53E34FB1-BAD6-4E0A-ABFE3C9CB6A9E71A"
 							componentimage="B0B9D2AF-91DF-4766-9214A64B5F5EB07A"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="7860972B-A20B-4C63-A4B4F8231862EB5D"
 							uniqueguid="7860972B-A20B-4C63-A4B4F8231862EB5D"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12674,7 +12674,7 @@
 				<tzeentch
 					this="CDDF709E-CBD3-4BB9-BBADAB65B5B6E002"
 					name="tzeentch"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="CDDF709E-CBD3-4BB9-BBADAB65B5B6E002">
@@ -12684,14 +12684,14 @@
 							uniqueguid="BDABF9D3-FEA6-4756-A0399E133DE269E3"
 							componentimage="AF9E8952-71E2-4E1C-B9D30D0379917C13"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="5C1FC653-6982-4205-8DF8170D805E63FB"
 							uniqueguid="5C1FC653-6982-4205-8DF8170D805E63FB"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12700,7 +12700,7 @@
 				<undivided
 					this="A68B9864-C23A-452A-8468B925D8B2665C"
 					name="undivided"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="A68B9864-C23A-452A-8468B925D8B2665C">
@@ -12710,14 +12710,14 @@
 							uniqueguid="FD0F2E7F-C958-4C4E-AD2FBF5A376FBB70"
 							componentimage="A744974C-22D6-47A6-B5F9467CECDB9DF7"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="27A3E27D-B012-46AD-978B72B212B0E8F4"
 							uniqueguid="27A3E27D-B012-46AD-978B72B212B0E8F4"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12726,7 +12726,7 @@
 				<art
 					this="ef255fee-e188-44c0-b90ff0aade6bf83f"
 					name="art"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="ef255fee-e188-44c0-b90ff0aade6bf83f">
@@ -12736,14 +12736,14 @@
 							uniqueguid="60376a3b-d104-460a-81669e125f495bf0"
 							componentimage="3fd4ebcc-60ad-4b3f-9dfb3e560569a30a"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="4020b685-f013-4857-a2a35d2d646da766"
 							uniqueguid="4020b685-f013-4857-a2a35d2d646da766"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12752,7 +12752,7 @@
 				<mod1
 					this="cd8bb552-00bd-4d93-ace78580aa6a776e"
 					name="mod1"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="cd8bb552-00bd-4d93-ace78580aa6a776e">
@@ -12762,14 +12762,14 @@
 							uniqueguid="8f640be9-31a9-44c2-a3046ed4f41c527f"
 							componentimage="222ee8e1-e6bd-435e-8ceeb32d08f11ecf"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="e351f980-59ae-4e31-a1b8ce14eb9668e5"
 							uniqueguid="e351f980-59ae-4e31-a1b8ce14eb9668e5"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12778,7 +12778,7 @@
 				<mod2
 					this="c6b64502-c8f4-45b8-8a75d80c000315d8"
 					name="mod2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="c6b64502-c8f4-45b8-8a75d80c000315d8">
@@ -12788,14 +12788,14 @@
 							uniqueguid="705609e8-a978-4113-a7b3cf8168ee45a8"
 							componentimage="88d5062c-0d95-4452-a441ca1cffdf9ebd"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="fa5227ef-daa7-41dd-8d35135dca1bee00"
 							uniqueguid="fa5227ef-daa7-41dd-8d35135dca1bee00"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12804,7 +12804,7 @@
 				<brt
 					this="f5365595-1a55-4add-825a7b16f27a698e"
 					name="brt"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="f5365595-1a55-4add-825a7b16f27a698e">
@@ -12814,14 +12814,14 @@
 							uniqueguid="e55d9e02-73ea-4d97-845d29b6e11c4e72"
 							componentimage="5bd79027-3277-4f48-8ff080f6fd1b9331"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="95756dc8-8762-4c6a-b5ab1f9f1a8847cc"
 							uniqueguid="95756dc8-8762-4c6a-b5ab1f9f1a8847cc"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12830,7 +12830,7 @@
 				<bst
 					this="7cc3997d-d1a7-40a8-867e0fa0c526628a"
 					name="bst"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="7cc3997d-d1a7-40a8-867e0fa0c526628a">
@@ -12840,14 +12840,14 @@
 							uniqueguid="97dd3f38-7c2c-4279-8c421c7ffe5505c9"
 							componentimage="c89b020f-c58f-4693-8d2bdd9fa958ccc6"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="58054a0e-2858-431a-b1e3f0f5f9a7b64d"
 							uniqueguid="58054a0e-2858-431a-b1e3f0f5f9a7b64d"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12856,7 +12856,7 @@
                 <chd
 					this="fca519be-b9eb-4c1e-ba27aa09718e1259"
 					name="chd"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="fca519be-b9eb-4c1e-ba27aa09718e1259">
@@ -12866,14 +12866,14 @@
 							uniqueguid="7a618167-37c6-4c3e-b6ecb395e583f5b3"
 							componentimage="66f33ac1-de01-4fc3-83dff83001ccd8c6"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="f617dafc-c377-433f-a3e07966b955a6a5"
 							uniqueguid="f617dafc-c377-433f-a3e07966b955a6a5"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12882,7 +12882,7 @@
 				<cst
 					this="94c92083-f23b-4ecd-ba07434796b3f18d"
 					name="cst"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="94c92083-f23b-4ecd-ba07434796b3f18d">
@@ -12892,14 +12892,14 @@
 							uniqueguid="63ff68c3-16f8-4b06-8e6b7a75574eb6b8"
 							componentimage="adeddabb-6231-4398-b3164116f3200391"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="fcd1a4c1-b947-452d-90a16906f61922db"
 							uniqueguid="fcd1a4c1-b947-452d-90a16906f61922db"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12908,7 +12908,7 @@
 				<cth
 					this="b4e861b2-7381-47b3-98534ccdd8830fe6"
 					name="cth"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="b4e861b2-7381-47b3-98534ccdd8830fe6">
@@ -12918,14 +12918,14 @@
 							uniqueguid="e6cc5ff2-3faa-4c76-94ad08835f7a151c"
 							componentimage="8e8ab8f8-ea61-4043-9b1c8bae9e0d4921"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="10f93f30-8122-4417-a2f6247f137239aa"
 							uniqueguid="10f93f30-8122-4417-a2f6247f137239aa"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12934,7 +12934,7 @@
 				<def
 					this="d1512cfd-4862-4246-a965f539d03d3d8e"
 					name="def"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="d1512cfd-4862-4246-a965f539d03d3d8e">
@@ -12944,14 +12944,14 @@
 							uniqueguid="148862e3-2e2c-4c51-a60747d37405cc5c"
 							componentimage="184fc4bd-5deb-44a7-bbae27d00ceab255"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="084495f7-5472-4918-bfeebed210bcbfa1"
 							uniqueguid="084495f7-5472-4918-bfeebed210bcbfa1"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12960,7 +12960,7 @@
 				<dwf
 					this="07b0edbe-60b4-4af8-9340360db1512ba5"
 					name="dwf"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="07b0edbe-60b4-4af8-9340360db1512ba5">
@@ -12970,14 +12970,14 @@
 							uniqueguid="d4b71f94-0c09-45b0-88a0559af86655d1"
 							componentimage="ffcb2504-70e3-4aee-81b78aa52c3f8fc7"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="9b525d7e-da18-414a-b7b31b1131dbd61e"
 							uniqueguid="9b525d7e-da18-414a-b7b31b1131dbd61e"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -12986,7 +12986,7 @@
 				<emp
 					this="0b630fd7-8e19-4cff-8dd3382b94b08b7d"
 					name="emp"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="0b630fd7-8e19-4cff-8dd3382b94b08b7d">
@@ -12996,14 +12996,14 @@
 							uniqueguid="c52f61c8-a9fa-4fea-80ed903e03638e81"
 							componentimage="295dc202-b9e1-436f-8ac0d3468a3162ad"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="c399bb76-edc5-4432-b373056bc7444271"
 							uniqueguid="c399bb76-edc5-4432-b373056bc7444271"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13012,7 +13012,7 @@
 				<grn
 					this="5c511607-1f5d-4e5e-97a6dce1bb239f80"
 					name="grn"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="5c511607-1f5d-4e5e-97a6dce1bb239f80">
@@ -13022,14 +13022,14 @@
 							uniqueguid="1be19541-3531-4e13-935a58c3e7b445e4"
 							componentimage="a6b8a35c-5ffd-4cf7-8ec384825ef25621"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="90775331-9958-455a-9fbcf5e6bded0ee2"
 							uniqueguid="90775331-9958-455a-9fbcf5e6bded0ee2"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13038,7 +13038,7 @@
 				<hef
 					this="f50c757a-2ed7-4295-936afc1099bda0de"
 					name="hef"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="f50c757a-2ed7-4295-936afc1099bda0de">
@@ -13048,14 +13048,14 @@
 							uniqueguid="b87c9309-1d80-49dd-81e231e49e4d57bb"
 							componentimage="f983f662-809d-4a4d-a663b4a03afa79ed"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="27c0e953-701c-4c04-9d64c2929e5268f9"
 							uniqueguid="27c0e953-701c-4c04-9d64c2929e5268f9"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13064,7 +13064,7 @@
 				<ksl
 					this="447741a5-864a-4a2a-8446e79eefc9381f"
 					name="ksl"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="447741a5-864a-4a2a-8446e79eefc9381f">
@@ -13074,14 +13074,14 @@
 							uniqueguid="3ba2f1d3-b8b8-48af-bb32c3bc1143ea36"
 							componentimage="e78be108-2443-4647-9ccb0e73ecd694af"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="62c4249e-d8e4-4dc1-b2e5a1c7a56f895d"
 							uniqueguid="62c4249e-d8e4-4dc1-b2e5a1c7a56f895d"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13090,7 +13090,7 @@
 				<lzd
 					this="6ef9e3c8-2b6d-46ae-9c643bcb2987ac0c"
 					name="lzd"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="6ef9e3c8-2b6d-46ae-9c643bcb2987ac0c">
@@ -13100,14 +13100,14 @@
 							uniqueguid="87eba163-e366-4601-9053b8f506706a2c"
 							componentimage="7bf3aef1-0175-4376-9e08bdf142ea674e"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="e327f27a-561d-49ad-822ccc172aae844e"
 							uniqueguid="e327f27a-561d-49ad-822ccc172aae844e"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13116,7 +13116,7 @@
 				<nor
 					this="e20c3f7b-a73c-42cf-bfaa9f40f8652f5e"
 					name="nor"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="e20c3f7b-a73c-42cf-bfaa9f40f8652f5e">
@@ -13126,14 +13126,14 @@
 							uniqueguid="634c324b-827c-4c83-ab30acdfc29a810c"
 							componentimage="5fb3fc26-4fc0-4fd9-beb755e2f29f7d8e"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="e29297ae-3dea-470f-8f30c083e8e794db"
 							uniqueguid="e29297ae-3dea-470f-8f30c083e8e794db"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13142,7 +13142,7 @@
 				<ogr
 					this="43820501-3ca9-49a5-b0019a421a460893"
 					name="ogr"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="43820501-3ca9-49a5-b0019a421a460893">
@@ -13152,14 +13152,14 @@
 							uniqueguid="eb2e8fd0-b0e9-4ed6-864fc6e6c0b4961f"
 							componentimage="9f7d899d-3479-47cf-926e0084d9ae8c0b"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="9067db32-c797-406c-abaff01c7ca37e47"
 							uniqueguid="9067db32-c797-406c-abaff01c7ca37e47"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13168,7 +13168,7 @@
 				<skv
 					this="fe26fe5f-bea6-4283-a56fa39e4d30de90"
 					name="skv"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="fe26fe5f-bea6-4283-a56fa39e4d30de90">
@@ -13178,14 +13178,14 @@
 							uniqueguid="e093dbed-0e78-40e2-843ce00aab22c17e"
 							componentimage="1fad5f88-3528-4f05-9f940c1077219899"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="38970561-b4af-4053-815f502621b74c37"
 							uniqueguid="38970561-b4af-4053-815f502621b74c37"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13194,7 +13194,7 @@
 				<tmb
 					this="6a5b02b0-2376-47c6-a20cdc410163eaef"
 					name="tmb"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="6a5b02b0-2376-47c6-a20cdc410163eaef">
@@ -13204,14 +13204,14 @@
 							uniqueguid="39f350db-8017-4200-8a84231428181741"
 							componentimage="4b023d1d-55bb-4743-95599fba83ce7d3f"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="1af46bf6-db34-44dc-9f35f2d7bf5fb5ff"
 							uniqueguid="1af46bf6-db34-44dc-9f35f2d7bf5fb5ff"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13220,7 +13220,7 @@
 				<vmp
 					this="4e99010b-ef2a-43f1-bfe8cd4358b5a1f9"
 					name="vmp"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="4e99010b-ef2a-43f1-bfe8cd4358b5a1f9">
@@ -13230,14 +13230,14 @@
 							uniqueguid="16b93e9e-c2ee-4f3b-9bb7bdf15ff6be5b"
 							componentimage="ca030f34-ebdd-4f90-8de4a0f9f9baeb5e"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="c024aa92-2e98-42b5-b67fa4ac6e2e3dcf"
 							uniqueguid="c024aa92-2e98-42b5-b67fa4ac6e2e3dcf"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13246,7 +13246,7 @@
 				<wef
 					this="d1ecf955-6782-44f9-9f8373f00364cccc"
 					name="wef"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="d1ecf955-6782-44f9-9f8373f00364cccc">
@@ -13256,14 +13256,14 @@
 							uniqueguid="39887633-8510-4d89-9e46591454e1840b"
 							componentimage="e5634e96-05b5-43b8-baf4efd722b7f204"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="fa7e706a-7b3e-43d2-ac3646b3e4d284a4"
 							uniqueguid="fa7e706a-7b3e-43d2-ac3646b3e4d284a4"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13272,7 +13272,7 @@
 				<brt2
 					this="959444e1-29a2-47e6-82093e6d0d202408"
 					name="brt2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="959444e1-29a2-47e6-82093e6d0d202408">
@@ -13282,14 +13282,14 @@
 							uniqueguid="4922363e-11fd-4dd6-a514ed9189a538a0"
 							componentimage="fea307d0-c9bc-40fd-b9b0a81c8e753abb"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="d3b19ac3-9dfd-47fe-8c3f7719dadd8c41"
 							uniqueguid="d3b19ac3-9dfd-47fe-8c3f7719dadd8c41"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13298,7 +13298,7 @@
 				<cth2
 					this="84eee3cf-de46-4fe9-84886d72312130f1"
 					name="cth2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="84eee3cf-de46-4fe9-84886d72312130f1">
@@ -13308,14 +13308,14 @@
 							uniqueguid="f8f7b8d4-a9ec-494a-98c0c97177bd9a43"
 							componentimage="e2d1c36e-7774-48a4-afb82e7d0ff87cc8"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="180d3c23-cab4-42c9-b95903d1f0498a57"
 							uniqueguid="180d3c23-cab4-42c9-b95903d1f0498a57"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13324,7 +13324,7 @@
 				<def2
 					this="09a732d3-d28b-45db-8d0657f6e3220f96"
 					name="def2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="09a732d3-d28b-45db-8d0657f6e3220f96">
@@ -13334,14 +13334,14 @@
 							uniqueguid="8b9abb06-1a8b-4b46-948bf41dfddcdd93"
 							componentimage="ae4c18fb-500c-4679-ae444016a3148222"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="0bb149c5-2b9c-45cc-a9f40616071412d1"
 							uniqueguid="0bb149c5-2b9c-45cc-a9f40616071412d1"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13350,7 +13350,7 @@
 				<dwf2
 					this="88025d55-042d-40d3-bc375f5c2e9152ca"
 					name="dwf2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="88025d55-042d-40d3-bc375f5c2e9152ca">
@@ -13360,14 +13360,14 @@
 							uniqueguid="97276b1b-1c5c-446b-b6fe86257cf811fb"
 							componentimage="08669d2e-6e96-4c9b-917863a5007e558d"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="aaa26977-44ca-4ebc-b75299f9ac357c78"
 							uniqueguid="aaa26977-44ca-4ebc-b75299f9ac357c78"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13376,7 +13376,7 @@
 				<emp2
 					this="a53271ab-6de7-4e62-93f25a588591e9a8"
 					name="emp2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="a53271ab-6de7-4e62-93f25a588591e9a8">
@@ -13386,14 +13386,14 @@
 							uniqueguid="8b93dd7f-b1ba-439a-823578dd9bcb33d0"
 							componentimage="f4f867f6-13b2-4e06-a232bdb9b75ebcc1"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="4bbee68f-4519-4464-8ab84cb768e646ca"
 							uniqueguid="4bbee68f-4519-4464-8ab84cb768e646ca"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13402,7 +13402,7 @@
 				<grn2
 					this="f7934b4b-3661-49f5-8431990b94669e86"
 					name="grn2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="f7934b4b-3661-49f5-8431990b94669e86">
@@ -13412,14 +13412,14 @@
 							uniqueguid="e6f31a4e-ac88-4612-881d81bdedf4961c"
 							componentimage="c1a9ecf2-f3f5-4ee0-83581672d87638eb"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="107bd6d3-8904-46b3-82bc2d03d7efbad8"
 							uniqueguid="107bd6d3-8904-46b3-82bc2d03d7efbad8"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13428,7 +13428,7 @@
 				<hef2
 					this="319a42d0-e5d9-42fa-a2bd009590eaa4de"
 					name="hef2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="319a42d0-e5d9-42fa-a2bd009590eaa4de">
@@ -13438,14 +13438,14 @@
 							uniqueguid="ce4bdf6e-1aa7-48bf-bf8d3db5a8602736"
 							componentimage="1b66dd89-43e3-482f-8bcb188c682966f9"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="7a059cb7-071a-4008-88c72ffc6c8e30c8"
 							uniqueguid="7a059cb7-071a-4008-88c72ffc6c8e30c8"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13454,7 +13454,7 @@
 				<lzd2
 					this="18b54bd1-0faa-49e4-a5e6fe2e6ed374a1"
 					name="lzd2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="18b54bd1-0faa-49e4-a5e6fe2e6ed374a1">
@@ -13464,14 +13464,14 @@
 							uniqueguid="e70b685e-50d4-4ec2-9e2c9b0280f1c41f"
 							componentimage="c77a9c06-b789-434f-bf38b6600819bdd5"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="a68e3c84-fc20-4fba-b23e60c4ac500f8f"
 							uniqueguid="a68e3c84-fc20-4fba-b23e60c4ac500f8f"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13480,7 +13480,7 @@
 				<vmp2
 					this="7dbb6bb7-c4ac-4a55-bd61765e255711ec"
 					name="vmp2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="7dbb6bb7-c4ac-4a55-bd61765e255711ec">
@@ -13490,14 +13490,14 @@
 							uniqueguid="717be491-8ce8-4f5d-b19926318b347c4b"
 							componentimage="9b3b4865-dbd7-454d-a6864d0a85fe50c3"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="634434a0-e858-4213-b2a1ebf310579181"
 							uniqueguid="634434a0-e858-4213-b2a1ebf310579181"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13506,7 +13506,7 @@
                 <nip
 					this="41b91f47-d2fa-4ec5-9f4b3fc7a26b8b71"
 					name="nip"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="41b91f47-d2fa-4ec5-9f4b3fc7a26b8b71">
@@ -13516,14 +13516,14 @@
 							uniqueguid="ff152996-bb1d-4ba0-93b8a65978206438"
 							componentimage="0440b0c5-00f8-4a96-85edf57c8248bc8b"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="934084c6-f9d7-4ea2-880cfc1e0a3bd091"
 							uniqueguid="934084c6-f9d7-4ea2-880cfc1e0a3bd091"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13532,7 +13532,7 @@
                 <ind
 					this="7b474050-c2d0-4a4c-a972d2f55500f466"
 					name="ind"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="7b474050-c2d0-4a4c-a972d2f55500f466">
@@ -13542,14 +13542,14 @@
 							uniqueguid="c6ac8762-fa6d-471a-bfc8dda46b2c9473"
 							componentimage="093eef18-1318-446a-ad3fc42851a5b015"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="e8a9ec4d-7f80-49c6-a75240de63973b55"
 							uniqueguid="e8a9ec4d-7f80-49c6-a75240de63973b55"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13558,7 +13558,7 @@
                 <teb
 					this="83c5360e-e473-4928-b2e20bc4dde4a47f"
 					name="teb"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="83c5360e-e473-4928-b2e20bc4dde4a47f">
@@ -13568,14 +13568,14 @@
 							uniqueguid="c1cb95d1-4e8e-483a-bd5175a987456ec1"
 							componentimage="3b8036d6-3be9-4a5a-9aa4aa2c3d023108"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="bd93d0a1-438d-42b2-a4995cf68ba54d0c"
 							uniqueguid="bd93d0a1-438d-42b2-a4995cf68ba54d0c"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13584,7 +13584,7 @@
                 <ovn1
 					this="d0ae9507-d54f-4635-bdc2190d0ef83586"
 					name="ovn1"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="d0ae9507-d54f-4635-bdc2190d0ef83586">
@@ -13594,14 +13594,14 @@
 							uniqueguid="5058161d-32d3-4590-9616ccb572dd8723"
 							componentimage="d3c2fbb6-e5bc-4714-b8db01c8b4d0aec7"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="bc94733b-800a-44c9-bc2ea2d602e9dda2"
 							uniqueguid="bc94733b-800a-44c9-bc2ea2d602e9dda2"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13610,7 +13610,7 @@
                 <ovn2
 					this="ba09dce9-6d61-450a-b5129eaac5caf4bb"
 					name="ovn2"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="ba09dce9-6d61-450a-b5129eaac5caf4bb">
@@ -13620,14 +13620,14 @@
 							uniqueguid="36416764-3f6c-45fc-8a4f70a2fcb644f5"
 							componentimage="4775287b-1e78-453b-b5bc44a9468ed6e3"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="e44d03d9-362c-473f-ae127fdfb95d92b9"
 							uniqueguid="e44d03d9-362c-473f-ae127fdfb95d92b9"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13636,7 +13636,7 @@
                 <ovn3
 					this="70a0ae17-65dd-4712-aecbe4188f8d502e"
 					name="ovn3"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="70a0ae17-65dd-4712-aecbe4188f8d502e">
@@ -13646,14 +13646,14 @@
 							uniqueguid="30a6b649-3ee0-4b47-9e1f9db4e8970b99"
 							componentimage="05ff93aa-d97b-46a1-a6520a8c9e8b5794"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="5b4be25c-f1a7-4601-953fd340098cdb90"
 							uniqueguid="5b4be25c-f1a7-4601-953fd340098cdb90"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13662,7 +13662,7 @@
                 <ovn4
 					this="136b9dec-f6cd-492a-ba08e08e33b2d1e4"
 					name="ovn4"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="136b9dec-f6cd-492a-ba08e08e33b2d1e4">
@@ -13672,14 +13672,14 @@
 							uniqueguid="ee2f1c8d-a610-4527-ada0a599a0ed211f"
 							componentimage="b3f7a4a8-c8eb-41ac-9a4ae23729e21589"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="fd1f5b76-66f6-4b8d-8c95296ebaa92a44"
 							uniqueguid="fd1f5b76-66f6-4b8d-8c95296ebaa92a44"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13688,7 +13688,7 @@
                 <ovn5
 					this="31ceb39c-e75f-4437-95f49d98de543a41"
 					name="ovn5"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="31ceb39c-e75f-4437-95f49d98de543a41">
@@ -13698,14 +13698,14 @@
 							uniqueguid="baa1ae02-1119-49f4-a97f7aa372f8fe51"
 							componentimage="6799df75-ed11-4007-8647bc9506f88015"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="87f64cc3-09f7-4a32-a239fa765a55f73a"
 							uniqueguid="87f64cc3-09f7-4a32-a239fa765a55f73a"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13714,7 +13714,7 @@
                 <brtber
 					this="35122de5-2d2f-4f5c-b942d34af55338d4"
 					name="brtber"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="35122de5-2d2f-4f5c-b942d34af55338d4">
@@ -13724,14 +13724,14 @@
 							uniqueguid="4deffb05-7ab3-4b7e-841ac376936b1fc6"
 							componentimage="dc35ff52-f36e-4605-b4dc2ecae15f6bbb"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="60dec29a-f5be-4903-bc9b42bcdd8d9d69"
 							uniqueguid="60dec29a-f5be-4903-bc9b42bcdd8d9d69"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13740,7 +13740,7 @@
                 <empgun
 					this="b6bf1772-49ae-40d5-8ca816f13f3e428a"
 					name="empgun"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="b6bf1772-49ae-40d5-8ca816f13f3e428a">
@@ -13750,14 +13750,14 @@
 							uniqueguid="6280cbad-4f3e-49ec-bf3dd3863b8ae0eb"
 							componentimage="5385ff76-0e2e-4c9a-b65f6476e5e15a4a"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="90a8e414-b760-422a-896919da0b4944d3"
 							uniqueguid="90a8e414-b760-422a-896919da0b4944d3"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13766,7 +13766,7 @@
                 <lostca
 					this="3c094623-0ae4-4025-97e3b10979235533"
 					name="lostca"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="3c094623-0ae4-4025-97e3b10979235533">
@@ -13776,14 +13776,14 @@
 							uniqueguid="64d64a72-03aa-4bc9-af2b67d85f04a3d5"
 							componentimage="94080f34-ff26-4b40-95aa63bbefb3a6e5"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="ffa01e93-a87e-422a-ade7f3cd2d0142b5"
 							uniqueguid="ffa01e93-a87e-422a-ade7f3cd2d0142b5"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13792,7 +13792,7 @@
                 <brtvmp
 					this="28c9c59e-decc-400a-80e2bacfe353d850"
 					name="brtvmp"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="28c9c59e-decc-400a-80e2bacfe353d850">
@@ -13802,14 +13802,14 @@
 							uniqueguid="2bac814f-de98-466e-8ccdd085de94d957"
 							componentimage="d3ff81fe-e0c8-4b54-84a0f23c9912dfac"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="52ab8743-eeac-4c55-89323b096f8358ef"
 							uniqueguid="52ab8743-eeac-4c55-89323b096f8358ef"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13818,7 +13818,7 @@
                 <cthvmp
 					this="25fff66b-89a8-402b-94eb3e43e72d9835"
 					name="cthvmp"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="25fff66b-89a8-402b-94eb3e43e72d9835">
@@ -13828,14 +13828,14 @@
 							uniqueguid="8bfd2ed0-e622-4aa5-b0cc48dba0965f4d"
 							componentimage="74344fae-d913-4f6b-a2a662e89cdd14b6"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="bf8207f5-27e2-4b90-b96b36fe709d5229"
 							uniqueguid="bf8207f5-27e2-4b90-b96b36fe709d5229"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13844,7 +13844,7 @@
                 <gnobla
 					this="094b2b34-31e1-4bad-b4ff56d09cc16a64"
 					name="gnobla"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="094b2b34-31e1-4bad-b4ff56d09cc16a64">
@@ -13854,14 +13854,14 @@
 							uniqueguid="cec533ac-a689-46c8-a29f24c8a366eb2e"
 							componentimage="473d4740-40dd-456b-b28865942ba470eb"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="26bab2b4-5fec-4ae9-97d7bbe0958d582b"
 							uniqueguid="26bab2b4-5fec-4ae9-97d7bbe0958d582b"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
@@ -13870,7 +13870,7 @@
                 <empmar
 					this="0c2beaf6-04ed-4527-9608a893e3740ed0"
 					name="empmar"
-					width="1329"
+					width="1130"
 					height="792"
 					interactive="true"
 					uniqueguid="0c2beaf6-04ed-4527-9608a893e3740ed0">
@@ -13880,14 +13880,14 @@
 							uniqueguid="c7802e46-a635-4b36-9390dd3fe76f5b6b"
 							componentimage="03433f6f-4117-4a84-952d3c7cc774cdfa"
 							offset="6.00,6.00"
-							width="1317"
+							width="1118"
 							height="780"
 							dockpoint="Center"/>
 						<image
 							this="2e332c50-b3ed-4524-913ba18cf2265abe"
 							uniqueguid="2e332c50-b3ed-4524-913ba18cf2265abe"
 							componentimage="C93F3215-AEBD-47DB-81A11C1FAFC9A04B"
-							width="1330"
+							width="1131"
 							height="792"
 							tile="true"
 							margin="30.00,30.00,30.00,30.00"/>
