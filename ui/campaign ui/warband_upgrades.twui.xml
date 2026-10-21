@@ -12283,7 +12283,7 @@
 		<warband_upgrades
 			this="87B0D410-679A-4CBA-9C8F7F4207317F64"
 			id="warband_upgrades"
-			offset="290.00,367.00"
+			offset="490.00,367.00"
 			docking="Bottom Center"
 			component_anchor_point="0.50,1.00"
 			tooltipslocalised="true"
