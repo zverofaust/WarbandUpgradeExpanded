@@ -13907,7 +13907,7 @@
 		<god_affinity_tabs
 			this="59B57F69-058B-4679-9A85EA5A71F75D35"
 			id="god_affinity_tabs"
-			offset="0.00,0.00"
+			offset="-150.00,0.00"
 			priority="50"
 			tooltipslocalised="true"
 			uniqueguid="59B57F69-058B-4679-9A85EA5A71F75D35"
