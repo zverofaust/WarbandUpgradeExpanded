@@ -7,3 +7,5 @@ TLA_bst_basic_raider	TLA_bst_basic	4	2	0.0000	0.0000	0.0000
 TLA_bst_elite_1	TLA_bst_elite	3	1	0.0000	0.0000	0.0000
 TLA_bst_gors	TLA_bst_elite	4	2	0.0000	0.0000	0.0000
 TLA_bst_cav_1	TLA_bst_cav	3	1	0.0000	0.0000	0.0000
+TLA_bst_elite	TLA_bst_basic_1	3	1	0.0000	0.0000	0.0000
+WUE_bst_slaangors	TLA_bst_elite	4	2	0.0000	0.0000	0.0000
