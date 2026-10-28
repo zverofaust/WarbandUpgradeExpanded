@@ -1,6 +1,0 @@
-*.pack
-build/
-dist/
-reference/
-__pycache__/
-*.pyc
