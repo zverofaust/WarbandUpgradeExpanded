@@ -1,0 +1,26 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/BUF_bst_baseline.tsv
+BUF_bst_ungor_variants	BUF_bst_ungor_spears	4	2	0.0000	0.0000	0.0000
+BUF_bst_gor	BUF_bst_ungor_variants	3	1	0.0000	0.0000	0.0000
+BUF_bst_bestigor	BUF_bst_gor	3	1	0.0000	0.0000	0.0000
+BUF_bst_khorngors	BUF_bst_gor	4	2	0.0000	0.0000	0.0000
+BUF_bst_hounds_poison	BUF_bst_hounds	4	2	0.0000	0.0000	0.0000
+BUF_bst_razorgors	BUF_bst_hounds	3	1	0.0000	0.0000	0.0000
+BUF_bst_minotaur_variants	BUF_bst_minotaurs	3	1	0.0000	0.0000	0.0000
+BUF_bst_chimera	BUF_bst_manticore	3	1	0.0000	0.0000	0.0000
+BUF_bst_preyton	BUF_bst_cockatrice	3	1	0.0000	0.0000	0.0000
+BUF_bst_elemental	BUF_bst_preyton	3	1	0.0000	0.0000	0.0000
+BUF_bst_jabberslythe	BUF_bst_spined	3	1	0.0000	0.0000	0.0000
+BUF_bst_basilisk	BUF_bst_jabberslythe	3	1	0.0000	0.0000	0.0000
+BUF_bst_razorgor_chariot	BUF_bst_tuskgor_chariot	3	1	0.0000	0.0000	0.0000
+BUF_bst_khorne_minotaurs	BUF_bst_minotaur_variants	3	1	0.0000	0.0000	0.0000
+BUF_bst_rot_beasts	BUF_bst_hounds_poison	3	1	0.0000	0.0000	0.0000
+BUF_bst_pox_maggoth	BUF_bst_jabberslythe	3	1	0.0000	0.0000	0.0000
+BUF_bst_hounds_khorne	BUF_bst_hounds	2	4	0.0000	0.0000	0.0000
+BUF_bst_things_woods	BUF_bst_razorgors	3	1	0.0000	0.0000	0.0000
+BUF_bst_toad_dragon	BUF_bst_basilisk	3	1	0.0000	0.0000	0.0000
+BUF_bst_spawn_nurgle	BUF_bst_spawn	3	1	0.0000	0.0000	0.0000
+BUF_bst_bile_trolls	BUF_bst_trolls	3	1	0.0000	0.0000	0.0000
+BUF_bst_slaughterbrute	BUF_bst_jabberslythe	3	1	0.0000	0.0000	0.0000
+BUF_bst_mutalith	BUF_bst_jabberslythe	3	1	0.0000	0.0000	0.0000
+BUF_bst_ungor_raiders	BUF_bst_ungor_spears	2	4	0.0000	0.0000	0.0000

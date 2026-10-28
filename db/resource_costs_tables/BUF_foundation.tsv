@@ -1,0 +1,5 @@
+id	treasury_cost	expenditure_type	income_type	expenditure_type_when_regular	income_type_when_regular
+#resource_costs_tables;0;db/resource_costs_tables/BUF_foundation					
+BUF_bst_upgrade_t1	-100	RECRUITMENT	CANCELLED_RECRUITMENT	ARMY_UPKEEP	BACKGROUND_INCOME
+BUF_bst_upgrade_t2	-200	RECRUITMENT	CANCELLED_RECRUITMENT	ARMY_UPKEEP	BACKGROUND_INCOME
+BUF_bst_upgrade_t3	-300	RECRUITMENT	CANCELLED_RECRUITMENT	ARMY_UPKEEP	BACKGROUND_INCOME

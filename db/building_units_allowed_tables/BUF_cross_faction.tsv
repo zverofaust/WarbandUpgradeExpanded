@@ -1,0 +1,8 @@
+key	building	unit	XP	conditions	faction	enabled
+#building_units_allowed_tables;4;db/building_units_allowed_tables/BUF_cross_faction.tsv
+900000001	wh_dlc03_horde_beastmen_creatures_2	wh3_dlc24_ksl_mon_the_things_in_the_woods	0	0		false
+900000007	wh_dlc03_horde_beastmen_giants_1	wh_main_chs_mon_trolls	0	0		false
+900000013	wh_dlc17_horde_beastmen_ghorgon_1	wh3_dlc29_chs_mon_chaos_siege_giant	0	0		false
+900000014	wh_dlc17_horde_beastmen_ghorgon_1	wh3_dlc26_kho_mon_slaughterbrute	0	0		false
+900000015	wh_dlc17_horde_beastmen_ghorgon_1	wh3_dlc24_tze_mon_mutalith_vortex_beast	0	0		false
+900000017	wh_dlc03_horde_beastmen_ruination_1	laf_nur_mon_pox_maggoth	0	0		false
