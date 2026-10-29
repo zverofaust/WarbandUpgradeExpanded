@@ -1,0 +1,16 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_chs						
+wh3_dlc20_chs_spawn_und	wh3_dlc20_chs_aspiring_champions	1	4	0.0000	0.0000	0.0000
+wh3_dlc20_chs_gorebeast_chariot_und	wh3_dlc20_chs_chariot_und	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_aspiring_champions	wh3_dlc20_chs_chosen_und	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_spawn_und	wh3_dlc20_chs_forsaken_und	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_knights_und	wh3_dlc20_chs_marauder_horsemasters	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_chariot_und	wh3_dlc20_chs_marauder_horsemen_und	3	2	0.0000	0.0000	0.0000
+wh3_dlc20_chs_marauder_horsemasters	wh3_dlc20_chs_marauder_horsemen_und	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_forsaken_und	wh3_dlc20_chs_marauder_inf_und	3	4	-0.2500	0.0000	0.0000
+wh3_dlc20_chs_warriors_und	wh3_dlc20_chs_marauder_inf_und	3	1	0.0000	0.0000	0.0000
+wh3_dlc29_chs_flayerkin	wh3_dlc20_chs_marauder_inf_und	3	4	0.2500	0.0000	0.0000
+wh3_dlc20_chs_trolls_armoured	wh3_dlc20_chs_trolls	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_chosen_und	wh3_dlc20_chs_warriors_und	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_knights_und	wh3_dlc20_chs_warriors_und	4	2	0.0000	0.0000	25.0000
+wh3_dlc29_chs_siege_giant	wh3_dlc29_chs_giant	3	1	0.0000	0.0000	0.0000
