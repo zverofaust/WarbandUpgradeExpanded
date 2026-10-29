@@ -1,0 +1,23 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_tmb						
+TLA_tmb_inf_1	WUE_tmb_skeleton_spearmen	3	1	0.0000	0.0000	0.0000
+TLA_tmb_skeleton_horsemen	TLA_tmb_skeleton_warriors	4	2	0.0000	0.0000	0.0000
+TLA_tmb_cav_horse_1	TLA_tmb_inf_1	4	2	0.0000	0.0000	0.0000
+TLA_tmb_cav_horse_1	TLA_tmb_skeleton_horsemen	3	1	0.0000	0.0000	0.0000
+TLA_tmb_skeleton_chariots	TLA_tmb_skeleton_horsemen	3	1	0.0000	0.0000	0.0000
+TLA_tmb_tomb_guard_swords	TLA_tmb_inf_1	3	1	0.0000	0.0000	0.0000
+TLA_tmb_necropolis_knights	TLA_tmb_cav_horse_1	3	1	0.0000	0.0000	0.0000
+TLA_tmb_skeleton_warriors	WUE_tmb_skeleton_spearmen	4	2	0.0000	0.0000	0.0000
+WUE_tmb_skeleton_archers	WUE_tmb_skeleton_spearmen	2	4	0.0000	0.0000	0.0000
+WUE_tmb_skeleton_horse_archers	TLA_tmb_skeleton_horsemen	4	2	0.0000	0.0000	0.0000
+WUE_tmb_skeleton_archer_chariots	TLA_tmb_skeleton_chariots	4	2	0.0000	0.0000	0.0000
+WUE_tmb_tomb_guard_halberds	TLA_tmb_tomb_guard_swords	4	2	0.0000	0.0000	0.0000
+WUE_tmb_ushabti_bows	TLA_tmb_ushabti_melee	4	2	0.0000	0.0000	0.0000
+WUE_tmb_necropolis_knights_halberds	TLA_tmb_necropolis_knights	4	2	0.0000	0.0000	0.0000
+WUE_tmb_khemric_titan	WUE_tmb_tomb_scorpion	3	1	0.0000	0.0000	0.0000
+WUE_tmb_necrosphinx	WUE_tmb_warsphinx	3	1	0.0000	0.0000	0.0000
+WUE_tmb_bone_giant	TLA_tmb_screaming_skull_catapult	3	1	0.0000	0.0000	0.0000
+WUE_tmb_casket_of_souls	TLA_tmb_screaming_skull_catapult	3	1	0.0000	0.0000	0.0000
+WUE_tmb_hierotitan	WUE_tmb_bone_giant	3	1	0.0000	0.0000	0.0000
+WUE_tmb_skeleton_archers	TLA_tmb_skeleton_warriors	2	4	0.0000	0.0000	0.0000
+TLA_tmb_skeleton_horsemen	WUE_tmb_skeleton_spearmen	4	2	0.0000	0.0000	0.0000

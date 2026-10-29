@@ -1,0 +1,20 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_skv						
+TLA_skv_clan	TLA_skv_slave	4	2	0.0000	0.0000	0.0000
+TLA_skv_clan_1	TLA_skv_clan	3	1	0.0000	0.0000	0.0000
+TLA_skv_night	TLA_skv_clan	4	2	0.0000	0.0000	0.0000
+TLA_skv_monk	TLA_skv_clan_1	3	1	0.0000	0.0000	0.0000
+TLA_skv_weapon_gun	TLA_skv_clan_1	4	2	0.0000	0.0000	0.0000
+TLA_skv_run	TLA_skv_night	4	2	0.0000	0.0000	0.0000
+TLA_skv_weapon_gun	TLA_skv_night	3	1	0.0000	0.0000	0.0000
+TLA_skv_run_1	TLA_skv_run	3	1	0.0000	0.0000	0.0000
+TLA_skv_weapon_glob	TLA_skv_run_1	3	1	0.0000	0.0000	0.0000
+TLA_skv_weapon_gun	TLA_skv_run_1	2	4	0.0000	0.0000	0.0000
+TLA_skv_monk_1	TLA_skv_monk	3	1	0.0000	0.0000	0.0000
+TLA_skv_ogre_1	TLA_skv_ogre	3	1	0.0000	0.0000	0.0000
+TLA_skv_weapon_glob_1	TLA_skv_weapon_glob	3	1	0.0000	0.0000	0.0000
+TLA_skv_weapon_gun_1	TLA_skv_weapon_gun	3	1	0.0000	0.0000	0.0000
+TLA_skv_weapon_gun_2	TLA_skv_weapon_gun_1	3	1	0.0000	0.0000	0.0000
+TLA_skv_doom_1	TLA_skv_doom	3	1	0.0000	0.0000	0.0000
+TLA_skv_art_1	TLA_skv_art	3	1	0.0000	0.0000	0.0000
+TLA_skv_art_2	TLA_skv_art_1	3	1	0.0000	0.0000	0.0000

@@ -1,0 +1,14 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_def						
+TLA_def_cav_chariot_scour	TLA_def_cav_dark	3	1	0.0000	0.0000	0.0000
+TLA_def_cav_chariot_cold	TLA_def_cav_cold	3	1	0.0000	0.0000	0.0000
+TLA_def_cav_chariot_cold	TLA_def_cav_chariot_scour	4	2	0.0000	0.0000	0.0000
+TLA_def_cav_dark_1	TLA_def_cav_dark	4	2	0.0000	0.0000	0.0000
+TLA_def_cav_cold	TLA_def_cav_dark_1	4	2	0.0000	0.0000	0.0000
+TLA_def_cav_cold_1	TLA_def_cav_cold	4	2	0.0000	0.0000	0.0000
+TLA_def_inf_shard_1	TLA_def_inf_shard	4	2	0.0000	0.0000	0.0000
+TLA_def_inf_shade	TLA_def_inf_shard_1	4	2	0.0000	0.0000	0.0000
+TLA_def_inf_shade_1	TLA_def_inf_shade	4	2	0.0000	0.0000	0.0000
+TLA_def_inf_corsair	TLA_def_inf_basic	4	2	0.0000	0.0000	0.0000
+TLA_def_inf_har	TLA_def_inf_corsair	4	2	0.0000	0.0000	0.0000
+TLA_def_inf_sister	TLA_def_inf_witch	4	2	0.0000	0.0000	0.0000

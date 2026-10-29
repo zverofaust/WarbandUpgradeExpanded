@@ -1,0 +1,15 @@
+unit_upgrade_group	x	y	category
+#unit_upgrade_group_ui_infos_tables;1;db/unit_upgrade_group_ui_infos_tables/TLA_upgrade_kho			
+TLA_bst_hound	0	600	BST
+TLA_bst_hound_1	0	500	BST
+TLA_bst_centi	240	500	BST
+TLA_bst_mino	0	400	BST
+TLA_bst_mino_1	0	300	BST
+TLA_bst_basic	120	600	BST
+TLA_bst_basic_1	120	500	BST
+TLA_bst_basic_raider	240	600	BST
+TLA_bst_elite	120	400	BST
+TLA_bst_elite_1	120	300	BST
+TLA_bst_gors	240	400	BST
+TLA_bst_cav	240	300	BST
+TLA_bst_cav_1	240	200	BST
