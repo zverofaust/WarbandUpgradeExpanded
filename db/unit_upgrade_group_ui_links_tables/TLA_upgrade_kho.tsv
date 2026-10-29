@@ -20,3 +20,4 @@ TLA_kho_warshrine	wh3_dlc20_chs_chariot_kho	3	1	0.0000	0.0000	0.0000
 TLA_kho_slaughterbrute	TLA_kho_warshrine	3	1	0.0000	0.0000	0.0000
 TLA_kho_soul_grinder	TLA_kho_skullcannon	3	1	0.0000	0.0000	0.0000
 TLA_kho_bloodthirster	TLA_kho_soul_grinder	3	1	0.0000	0.0000	0.0000
+wh3_dlc29_chs_wrathmongers	wh3_dlc20_chs_chosen_kho	2	1	0.0000	0.0000	0.0000
