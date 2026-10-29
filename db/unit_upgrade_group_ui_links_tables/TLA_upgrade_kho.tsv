@@ -13,7 +13,6 @@ wh3_dlc29_chs_wrathmongers	wh3_dlc29_chs_skullreapers	3	1	0.0000	0.0000	0.0000
 wh3_main_chs_bloodletters_exalted	wh3_main_chs_bloodletters	3	1	0.0000	0.0000	0.0000
 wh3_dlc29_chs_skullreapers	wh3_dlc20_chs_marauder_inf_kho	3	4	0.0000	0.0000	0.0000
 TLA_kho_bloodcrushers	wh3_main_chs_bloodletters_exalted	3	1	0.0000	0.0000	0.0000
-TLA_kho_bloodbeast	wh3_dlc20_chs_forsaken_kho	3	1	0.0000	0.0000	0.0000
 TLA_kho_blood_shrine	wh3_main_chs_bloodletters	3	2	0.0000	0.0000	0.0000
 TLA_kho_skullcannon	TLA_kho_blood_shrine	3	1	0.0000	0.0000	0.0000
 TLA_kho_warshrine	wh3_dlc20_chs_chariot_kho	3	1	0.0000	0.0000	0.0000
@@ -21,3 +20,4 @@ TLA_kho_slaughterbrute	TLA_kho_warshrine	3	1	0.0000	0.0000	0.0000
 TLA_kho_soul_grinder	TLA_kho_skullcannon	3	1	0.0000	0.0000	0.0000
 TLA_kho_bloodthirster	TLA_kho_soul_grinder	3	1	0.0000	0.0000	0.0000
 wh3_dlc29_chs_wrathmongers	wh3_dlc20_chs_chosen_kho	2	1	0.0000	0.0000	0.0000
+TLA_kho_bloodbeast	TLA_kho_warhounds	3	1	0.0000	0.0000	0.0000
