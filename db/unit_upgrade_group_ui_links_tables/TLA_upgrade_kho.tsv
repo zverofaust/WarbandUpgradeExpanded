@@ -1,0 +1,14 @@
+child_key	parent_key	child_link_position	parent_link_position	parent_link_position_offset	child_link_position_offset	mid_link_offset
+#unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_kho						
+wh3_dlc20_chs_gorebeast_chariot_kho	wh3_dlc20_chs_chariot_kho	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_spawn_kho	wh3_dlc20_chs_forsaken_kho	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_skullcrushers	wh3_dlc20_chs_knights_kho	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_chariot_kho	wh3_dlc20_chs_marauder_horsemen_kho	3	2	0.0000	0.0000	0.0000
+wh3_dlc20_chs_knights_kho	wh3_dlc20_chs_marauder_horsemen_kho	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_forsaken_kho	wh3_dlc20_chs_marauder_inf_kho	3	4	0.0000	0.0000	0.0000
+wh3_dlc20_chs_warriors_kho	wh3_dlc20_chs_marauder_inf_kho	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_chosen_kho	wh3_dlc20_chs_warriors_kho	3	1	0.0000	0.0000	0.0000
+wh3_dlc20_chs_knights_kho	wh3_dlc20_chs_warriors_kho	4	2	0.0000	0.0000	25.0000
+wh3_dlc29_chs_wrathmongers	wh3_dlc29_chs_skullreapers	3	1	0.0000	0.0000	0.0000
+wh3_main_chs_bloodletters_exalted	wh3_main_chs_bloodletters	3	1	0.0000	0.0000	0.0000
+wh3_dlc29_chs_skullreapers	wh3_dlc20_chs_marauder_inf_kho	3	1	0.0000	0.0000	0.0000
