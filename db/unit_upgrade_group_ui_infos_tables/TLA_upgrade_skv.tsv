@@ -6,8 +6,8 @@ TLA_skv_clan_1	300	400	SKV
 TLA_skv_night	450	500	SKV
 TLA_skv_run	550	500	SKV
 TLA_skv_run_1	550	400	SKV
-TLA_skv_monk	250	400	SKV
-TLA_skv_monk_1	250	300	SKV
+TLA_skv_monk	225	400	SKV
+TLA_skv_monk_1	225	300	SKV
 TLA_skv_rat	800	600	SKV
 TLA_skv_ogre	800	500	SKV
 TLA_skv_ogre_1	800	400	SKV
