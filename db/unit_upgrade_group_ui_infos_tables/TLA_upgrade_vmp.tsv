@@ -1,7 +1,7 @@
 unit_upgrade_group	x	y	category
 #unit_upgrade_group_ui_infos_tables;1;db/unit_upgrade_group_ui_infos_tables/TLA_upgrade_vmp			
-TLA_vmp_handmaiden	140	300	VMP
-TLA_vmp_cav_blood_knight	400	280	VMP
+TLA_vmp_handmaiden	600	300	VMP
+TLA_vmp_cav_blood_knight	400	200	VMP
 TLA_vmp_cav_black	420	400	VMP
 TLA_vmp_inf_guard	400	500	VMP
 TLA_vmp_cart_2	70	400	VMP
@@ -18,3 +18,10 @@ TLA_vmp_inf_bow	720	600	VMP
 TLA_vmp_inf_skeleton	420	600	VMP
 TLA_vmp_inf_zombie	560	600	VMP
 TLA_vmp_morghast	850	200	VMP
+TLA_vmp_bats	335	600	VMP
+TLA_vmp_vargheists	335	400	VMP
+TLA_vmp_varghulf	335	300	VMP
+TLA_vmp_terrorgheist	335	200	VMP
+TLA_vmp_zombie_dragon	335	100	VMP
+TLA_vmp_cav_drakenhof	420	300	VMP
+TLA_vmp_mournguls	605	400	VMP
