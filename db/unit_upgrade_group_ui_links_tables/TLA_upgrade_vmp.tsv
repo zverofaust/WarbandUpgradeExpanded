@@ -5,8 +5,9 @@ TLA_vmp_cav_blood_knight	TLA_vmp_cav_black	3	1	0.0000	0.0000	0.0000
 TLA_vmp_wraith	TLA_vmp_spirit	3	1	0.0000	0.0000	0.0000
 TLA_vmp_wraith_1	TLA_vmp_wraith	3	1	0.0000	0.0000	0.0000
 TLA_vmp_wraith_2	TLA_vmp_wraith_1	3	1	0.0000	0.0000	0.0000
-TLA_vmp_inf_skeleton	TLA_vmp_inf_zombie	3	1	0.0000	0.0000	0.0000
+TLA_vmp_inf_crypt	TLA_vmp_inf_zombie	3	1	0.0000	0.0000	0.0000
 TLA_vmp_inf_gun	TLA_vmp_inf_bow	3	1	0.0000	0.0000	0.0000
 TLA_vmp_cav_crypt	TLA_vmp_inf_crypt	3	1	0.0000	0.0000	0.0000
 TLA_vmp_cart_1	TLA_vmp_cart	3	1	0.0000	0.0000	0.0000
 TLA_vmp_cart_2	TLA_vmp_cart_1	3	1	0.0000	0.0000	0.0000
+TLA_vmp_inf_guard	TLA_vmp_inf_skeleton	3	1	0.0000	0.0000	0.0000
