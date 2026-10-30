@@ -13,8 +13,8 @@ TLA_vmp_wraith	280	500	VMP
 TLA_vmp_spirit	280	600	VMP
 TLA_vmp_cav_crypt	560	400	VMP
 TLA_vmp_inf_crypt	560	500	VMP
-TLA_vmp_inf_gun	620	500	VMP
-TLA_vmp_inf_bow	620	600	VMP
+TLA_vmp_inf_gun	720	500	VMP
+TLA_vmp_inf_bow	720	600	VMP
 TLA_vmp_inf_skeleton	420	600	VMP
 TLA_vmp_inf_zombie	560	600	VMP
 TLA_vmp_morghast	850	200	VMP
