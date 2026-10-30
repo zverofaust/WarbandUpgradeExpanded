@@ -11,3 +11,8 @@ TLA_vmp_cav_crypt	TLA_vmp_inf_crypt	3	1	0.0000	0.0000	0.0000
 TLA_vmp_cart_1	TLA_vmp_cart	3	1	0.0000	0.0000	0.0000
 TLA_vmp_cart_2	TLA_vmp_cart_1	3	1	0.0000	0.0000	0.0000
 TLA_vmp_inf_guard	TLA_vmp_inf_skeleton	3	1	0.0000	0.0000	0.0000
+TLA_vmp_vargheists	TLA_vmp_bats	3	1	0.0000	0.0000	0.0000
+TLA_vmp_varghulf	TLA_vmp_vargheists	3	1	0.0000	0.0000	0.0000
+TLA_vmp_zombie_dragon	TLA_vmp_terrorgheist	3	1	0.0000	0.0000	0.0000
+TLA_vmp_cav_blood_knight	TLA_vmp_cav_drakenhof	3	1	0.0000	0.0000	0.0000
+TLA_vmp_mournguls	TLA_vmp_inf_zombie	3	1	0.0000	0.0000	0.0000
