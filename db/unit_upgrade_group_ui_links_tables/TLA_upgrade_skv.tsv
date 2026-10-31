@@ -27,3 +27,4 @@ TLA_skv_cauldron	TLA_skv_monk_1	3	1	0.0000	0.0000	0.0000
 TLA_skv_ogre_stormfiend_inf	TLA_skv_ogre	3	4	0.0000	0.0000	0.0000
 TLA_skv_ogre	TLA_skv_rat	3	1	0.0000	0.0000	0.0000
 TLA_skv_brood_horror	TLA_skv_rat	3	2	-0.4000	0.0000	0.0000
+TLA_skv_hell_pit_abomination	TLA_skv_brood_horror	3	1	0.0000	0.0000	0.0000
