@@ -2,6 +2,7 @@ child_key	parent_key	child_link_position	parent_link_position	parent_link_positi
 #unit_upgrade_group_ui_links_tables;2;db/unit_upgrade_group_ui_links_tables/TLA_upgrade_skv						
 TLA_skv_clan	TLA_skv_slave	3	1	0.0000	0.0000	0.0000
 TLA_skv_clan_1	TLA_skv_clan	3	1	0.0000	0.0000	0.0000
+TLA_skv_clan_1	TLA_skv_storm	3	1	0.0000	0.0000	0.0000
 TLA_skv_night	TLA_skv_clan	4	2	0.0000	0.0000	0.0000
 TLA_skv_monk	TLA_skv_clan_1	2	4	0.0000	0.0000	0.0000
 TLA_skv_weapon_gun	TLA_skv_clan_1	4	2	0.0000	0.0000	0.0000

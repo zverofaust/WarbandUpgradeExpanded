@@ -2,6 +2,8 @@ upgrade_key	base_unit_group	target_unit_group	resource_cost	required_rank	subtra
 #unit_upgrade_to_unit_groups_tables;3;db/unit_upgrade_to_unit_groups_tables/TLA_upgrade_skv					
 TLA_skv_slave_to_clan	TLA_skv_slave	TLA_skv_clan	TLA_upgrade_cost_t1	5	5
 TLA_skv_clan_to_1	TLA_skv_clan	TLA_skv_clan_1	TLA_upgrade_cost_t1	4	4
+TLA_skv_clan_1_to_storm	TLA_skv_clan_1	TLA_skv_storm	TLA_upgrade_cost_t3	8	8
+TLA_skv_storm_to_self	TLA_skv_storm	TLA_skv_storm	TLA_upgrade_cost_t2	4	0
 TLA_skv_clan_to_night	TLA_skv_clan	TLA_skv_night	TLA_upgrade_cost_t1	5	5
 TLA_skv_clan_1_to_weapon	TLA_skv_clan_1	TLA_skv_weapon_glob	TLA_upgrade_cost_t3	6	6
 TLA_skv_clan_1_to_gun	TLA_skv_clan_1	TLA_skv_weapon_gun	TLA_upgrade_cost_t2	6	6
