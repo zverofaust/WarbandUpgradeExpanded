@@ -10,3 +10,13 @@ wh3_dlc20_chs_warriors_sla	wh3_dlc20_chs_marauder_inf_sla	3	1	0.0000	0.0000	0.00
 wh3_dlc20_chs_chosen_sla	wh3_dlc20_chs_warriors_sla	3	1	0.0000	0.0000	0.0000
 wh3_dlc20_chs_knights_sla	wh3_dlc20_chs_warriors_sla	4	2	0.0000	0.0000	40.0000
 wh3_main_chs_daemonette_exalted	wh3_main_chs_daemonette	3	1	0.0000	0.0000	0.0000
+wh3_main_chs_daemonette	TLA_sla_furies	3	1	0.0000	0.0000	0.0000
+TLA_sla_seekers	wh3_main_chs_daemonette_exalted	3	1	0.0000	0.0000	0.0000
+TLA_sla_seeker_chariot	wh3_main_chs_daemonette_exalted	3	1	0.0000	0.0000	0.0000
+TLA_sla_heartseekers	TLA_sla_seekers	3	1	0.0000	0.0000	0.0000
+TLA_sla_pleasureseekers	TLA_sla_heartseekers	3	1	0.0000	0.0000	0.0000
+TLA_sla_hellflayers	TLA_sla_seeker_chariot	3	1	0.0000	0.0000	0.0000
+TLA_sla_exalted_seeker_chariot	TLA_sla_seeker_chariot	3	1	0.0000	0.0000	0.0000
+TLA_sla_soul_grinder	TLA_sla_exalted_seeker_chariot	3	1	0.0000	0.0000	0.0000
+TLA_sla_warshrine	wh3_dlc20_chs_spawn_sla	3	1	0.0000	0.0000	0.0000
+TLA_sla_fiends	wh3_dlc20_chs_spawn_sla	3	1	0.0000	0.0000	0.0000
