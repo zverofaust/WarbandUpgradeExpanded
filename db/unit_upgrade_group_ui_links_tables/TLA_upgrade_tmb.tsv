@@ -9,3 +9,8 @@ TLA_tmb_knight	TLA_tmb_cav_horse_1	3	1	0.0000	0.0000	0.0000
 TLA_tmb_guard	TLA_tmb_inf_1	3	1	0.0000	0.0000	0.0000
 TLA_tmb_cav_horse_1	TLA_tmb_inf_1	3	1	0.0000	0.0000	0.0000
 TLA_tmb_knight	TLA_tmb_guard	3	1	0.0000	0.0000	0.0000
+TLA_tmb_casket	TLA_tmb_cav_chariot_1	3	1	0.0000	0.0000	0.0000
+TLA_tmb_bone_giant	TLA_tmb_cav_chariot_1	3	1	0.0000	0.0000	0.0000
+TLA_tmb_hierotitan	TLA_tmb_bone_giant	3	1	0.0000	0.0000	0.0000
+TLA_tmb_necrosphinx	TLA_tmb_warsphinx	3	1	0.0000	0.0000	0.0000
+TLA_tmb_khemric_titan	TLA_tmb_scorpion	3	1	0.0000	0.0000	0.0000
