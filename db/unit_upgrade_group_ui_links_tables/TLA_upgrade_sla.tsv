@@ -17,11 +17,11 @@ TLA_sla_heartseekers	TLA_sla_seekers	3	1	0.0000	0.0000	0.0000
 TLA_sla_pleasureseekers	TLA_sla_heartseekers	3	1	0.0000	0.0000	0.0000
 TLA_sla_hellflayers	TLA_sla_seeker_chariot	3	1	0.0000	0.0000	0.0000
 TLA_sla_exalted_seeker_chariot	TLA_sla_seeker_chariot	3	2	0.0000	0.0000	0.0000
-TLA_sla_soul_grinder	TLA_sla_exalted_seeker_chariot	3	1	0.0000	0.0000	0.0000
-TLA_sla_warshrine	wh3_dlc20_chs_spawn_sla	3	1	0.0000	0.0000	0.0000
+TLA_sla_soul_grinder	TLA_sla_exalted_seeker_chariot	3	2	0.0000	0.0000	0.0000
+TLA_sla_warshrine	wh3_dlc20_chs_spawn_sla	3	4	0.0000	0.0000	0.0000
 TLA_sla_fiends	wh3_dlc20_chs_spawn_sla	3	1	0.0000	0.0000	0.0000
 wh3_dlc20_chs_warriors_sla	wh3_dlc27_sla_devoted_marauders_all	3	1	0.0000	0.0000	0.0000
 wh3_dlc20_chs_marauder_horsemen_sla	wh3_dlc27_sla_devoted_marauders_all	4	2	0.0000	0.0000	0.0000
 wh3_dlc20_chs_forsaken_sla	wh3_dlc27_sla_devoted_marauders_all	3	4	0.0000	0.0000	0.0000
-TLA_sla_keeper_of_secrets	TLA_sla_soul_grinder	3	1	0.0000	0.0000	0.0000
+TLA_sla_keeper_of_secrets	TLA_sla_soul_grinder	4	1	0.0000	0.0000	0.0000
 TLA_sla_keeper_of_secrets	TLA_sla_fiends	3	1	0.0000	0.0000	0.0000
