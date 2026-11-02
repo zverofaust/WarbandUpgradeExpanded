@@ -9,3 +9,13 @@ wh3_dlc20_chs_warriors_tze	wh3_dlc20_chs_marauder_inf_tze	3	1	0.0000	0.0000	0.00
 wh3_dlc20_chs_chosen_tze	wh3_dlc20_chs_warriors_tze	3	1	0.0000	0.0000	0.0000
 wh3_dlc20_chs_knights_tze	wh3_dlc20_chs_warriors_tze	4	2	0.0000	0.0000	40.0000
 wh3_main_chs_pink_horrors_exalted	wh3_main_chs_pink_horrors	3	1	0.0000	0.0000	0.0000
+TLA_tze_flamers	wh3_main_chs_pink_horrors	3	1	0.0000	0.0000	0.0000
+TLA_tze_changebringers	TLA_tze_flamers	3	1	0.0000	0.0000	0.0000
+TLA_tze_burning_chariot	TLA_tze_changebringers	3	1	0.0000	0.0000	0.0000
+TLA_tze_exalted_flamer	TLA_tze_flamers	3	1	0.0000	0.0000	0.0000
+TLA_tze_lord_of_change	TLA_tze_exalted_flamer	3	1	0.0000	0.0000	0.0000
+TLA_tze_screamers	TLA_tze_furies	3	1	0.0000	0.0000	0.0000
+TLA_tze_warshrine	wh3_dlc20_chs_spawn_tze	3	1	0.0000	0.0000	0.0000
+TLA_tze_soul_grinder	TLA_tze_warshrine	3	1	0.0000	0.0000	0.0000
+TLA_tze_mutalith	TLA_tze_warshrine	3	1	0.0000	0.0000	0.0000
+wh3_main_chs_pink_horrors	TLA_tze_blue_horrors	3	1	0.0000	0.0000	0.0000
