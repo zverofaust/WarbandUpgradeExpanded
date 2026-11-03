@@ -8,9 +8,9 @@ TLA_cst_inf_gun	280	500	CST
 TLA_cst_inf_gun_1	360	500	CST
 TLA_cst_inf_gun_2	480	500	CST
 TLA_cst_inf_gun_3	560	500	CST
-TLA_cst_inf_guard	140	300	CST
+TLA_cst_inf_guard	155	300	CST
 TLA_cst_mon	560	400	CST
-TLA_cst_mon_1	480	400	CST
+TLA_cst_mon_1	480	300	CST
 TLA_cst_sartosa	560	600	CST
 TLA_cst_knight_realm	280	300	CST
 TLA_cst_knight_questing	360	300	CST
