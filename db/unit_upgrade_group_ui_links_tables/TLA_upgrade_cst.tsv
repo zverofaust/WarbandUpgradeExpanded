@@ -10,3 +10,8 @@ TLA_cst_cav_deck	TLA_cst_inf_gun	3	1	0.0000	0.0000	0.0000
 TLA_cst_cav_deck_1	TLA_cst_inf_gun_1	3	1	0.0000	0.0000	0.0000
 TLA_cst_cav_deck_1	TLA_cst_cav_deck	4	2	0.0000	0.0000	0.0000
 TLA_cst_mon_1	TLA_cst_mon	2	4	0.0000	0.0000	0.0000
+TLA_cst_inf_guard	TLA_cst_inf_mob_1	3	1	0.0000	0.0000	0.0000
+TLA_cst_cannon	TLA_cst_mortar	3	1	0.0000	0.0000	0.0000
+TLA_cst_necrofex	TLA_cst_cannon	3	1	0.0000	0.0000	0.0000
+TLA_cst_leviathan	TLA_cst_mon	3	1	0.0000	0.0000	0.0000
+TLA_cst_leviathan	TLA_cst_mon_1	3	1	0.0000	0.0000	0.0000
