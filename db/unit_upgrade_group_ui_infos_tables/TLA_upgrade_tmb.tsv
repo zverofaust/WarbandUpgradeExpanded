@@ -14,7 +14,7 @@ TLA_tmb_archers	450	600	TMB
 TLA_tmb_casket	150	400	TMB
 TLA_tmb_bone_giant	200	400	TMB
 TLA_tmb_hierotitan	200	200	TMB
-TLA_tmb_warsphinx	100	300	TMB
-TLA_tmb_necrosphinx	100	100	TMB
+TLA_tmb_warsphinx	75	300	TMB
+TLA_tmb_necrosphinx	75	100	TMB
 TLA_tmb_scorpion	0	400	TMB
 TLA_tmb_khemric_titan	0	100	TMB
